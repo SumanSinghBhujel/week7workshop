@@ -1,0 +1,32 @@
+.parent{
+    background-color: green;
+    width: 100%;
+}
+.son{
+    width: 50%;
+    float: right;
+    background-color: grey;
+    width: 397.5px;
+    height: 376px;
+}
+.daughter{
+    width: 50%;
+    float: left;
+}
+img{
+    height: 376px;
+    width: 397.5px;
+}
+.p1{
+    font-size: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: black;
+    text-shadow: 10px;
+}
+.p2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
